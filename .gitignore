@@ -18,6 +18,7 @@
 /client/.env.development.local
 /client/.env.test.local
 /client/.env.production.local
+/client/.eslintcache
 
 
 .env
