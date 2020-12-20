@@ -24,7 +24,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -34,7 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1l0r7KjHY2kEuRYE3O1q2pSswkN" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -66,6 +66,7 @@
       <workItem from="1608495267811" duration="1748000" />
       <workItem from="1608497085091" duration="1773000" />
       <workItem from="1608498890411" duration="1786000" />
+      <workItem from="1608500702033" duration="806000" />
     </task>
     <servers />
   </component>
